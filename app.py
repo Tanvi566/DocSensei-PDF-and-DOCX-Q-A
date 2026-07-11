@@ -114,7 +114,7 @@ if uploaded_file:
                 2
             )
 
-        st.success("✅ Document indexed successfully!")
+        st.success(" Document indexed successfully!")
 
     # ---------------------------------------------------
     # Sidebar Statistics
